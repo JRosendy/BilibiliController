@@ -41,6 +41,10 @@ Keyboard shortcuts to control Bilibili videos on phones/tablets – a must for l
 
 6. 强烈欢迎github开发者来批评斧正，本人目前大二本科非计算机专业近乎依赖ai做出来的
 
+## 使用展示：
+
+<img align="right" alt="GIF" src="https://github.com/JRosendy/BilibiliController/blob/main/YunXing.png" />
+
 ### 致谢：
 
   * 感谢您的使用与反馈
