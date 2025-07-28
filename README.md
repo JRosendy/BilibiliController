@@ -5,11 +5,11 @@ Keyboard shortcuts to control Bilibili videos on phones/tablets – a must for l
 
 ## 电脑端本软件下载方式：
 
-|[GitHub下载](https://github.com/ok-oldking/ok-wuthering-waves/releases)|——网页直链, 请点击下载压缩包,不要点击下载Source Code
+|[GitHub下载](https://github.com/JRosendy/BilibiliController/releases/tag/v1.0.0)|——网页直链, 请点击下载压缩包,不要点击下载Source Code
 
 ## 手机或平板上需下载BilibiliHD(哔哩哔哩平板版)：
 
-|[BilibiliHD下载](https://github.com/ok-oldking/ok-wuthering-waves/releases)|——网页直链，请点击下载apk，不要点击下载Source Code
+|[BilibiliHD下载](https://github.com/JRosendy/BilibiliController/releases/tag/v0.0.0)|——网页直链，请点击下载apk，不要点击下载Source Code
 
 ## 使用教程：
 
